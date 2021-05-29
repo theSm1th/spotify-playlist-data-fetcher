@@ -3,7 +3,7 @@ A small program for downloading the metadata (ID, name and album cover) of songs
 Made entirely because I have a 800+ song playlist that I can't afford to lose - the names of the songs, atleast.
 
 ## Usage
-
+Requires the python modules requests and spotipy.
 
 ### Setup:
 1. Go to [Spotify's developer dashboard](https://developer.spotify.com/dashboard/) - log in and set up an app.
