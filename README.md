@@ -1,6 +1,6 @@
 # spotify-playlist-data-fetcher
 A small program for downloading the metadata (ID, name and album cover) of songs in a Spotify playlist. 
-Made entirely because I have a 800+ song playlist that I can't afford to lose - the names of the songs, atleast.
+Made entirely because I have a 1200+ song playlist that I can't afford to lose - the names of the songs, atleast.
 
 ## Usage
 Requires the python modules requests and spotipy.
